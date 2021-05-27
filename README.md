@@ -11,7 +11,10 @@
 ## Descrição do Projeto 
 Jogo do BlackJack criado em C#  
 
-Não conseguimos enviar todas as pasta do projeto inteiro pois está excedendo o limite de 100 arquivos, portanto, deve-se utilizar estas pastas no arquivo original. Somente alteramos a pasta VIEWS e WWWROOT.
+Não conseguimos enviar todas as pasta do projeto inteiro pois está excedendo o limite de 100 arquivos, portanto, deve-se utilizar estas pastas no arquivo original. Somente 
+alteramos a pasta VIEWS e WWWROOT. 
+
+## Outras Observações 
 
 Tecnologia em análise e desenvolvimento de sistemas 3A
 
